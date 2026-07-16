@@ -1,0 +1,13 @@
+[project]
+name = "timer-project"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "init>=0.1.0",
+    "keyboard>=0.13.5",
+    "pendulum>=3.2.0",
+    "pillow>=12.2.0",
+    "pygame>=2.6.1",
+    "ttkbootstrap>=1.20.3",
+]
